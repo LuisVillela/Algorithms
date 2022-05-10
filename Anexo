@@ -1,0 +1,28 @@
+"""
+Anexos
+"""
+
+Lists
+1. Largest_number_in_list
+2. List_merge
+
+Brute_Force
+3. Sum_of_first_n_numbers
+4. 4-digit_pin_unlock
+5. Divisor_of_n
+
+Recursion
+6. Sum_of_first_n_numbers_recursive
+7. Nth_fibonacci_number
+8. Factorial_of_n
+9. Countdown
+
+Sorting
+10. Bubble_Sort
+11. Selection_Sort
+12. Bubble_sort_optimized
+13. Insertion_sort
+
+Searching
+14. Linear_Search
+15. Binary_search
